@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Ephesis&family=Nova+Square&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Nova Square", sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 117px;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 24px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #e4e8f0;
+  border-radius: 24px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #e4e8f0;
+}
